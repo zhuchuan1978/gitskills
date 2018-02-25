@@ -9,4 +9,6 @@ Dev version
 
 Can't be interrupted.
 
-hello, dev, group a.
+hello, dev, group A
+
+add /usr/bin/env
